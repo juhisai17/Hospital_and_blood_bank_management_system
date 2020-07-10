@@ -1,0 +1,2 @@
+# Hospital_and_blood_bank_management_system
+Hospital And Blood Bank Information is to provide services for the people who need blood by getting help from the donors who are interested in donating blood for the people and also for the people who can be able to search blood according to their Blood Group, Country, City. There are Eight main features in this system.Login\r\nSignUp\r\nAbout\r\nDonor registration.\r\nDonors\r\nRequest For Blood\r\nView Blood Requests\r\nSearch By\r\n
